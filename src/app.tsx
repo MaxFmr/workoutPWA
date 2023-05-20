@@ -20,6 +20,14 @@ export function App() {
     day: 'numeric',
   });
   useEffect(() => {
+    //cache delete
+    caches.keys().then((cacheNames) => {
+      cacheNames.forEach((cacheName) => {
+        caches.delete(cacheName);
+      });
+    });
+
+    //data setup
     data.map((item) => {
       if (item.date === today) {
         setWorkoutPlaned(true);
