@@ -72,7 +72,7 @@ export function App() {
                       year: 'numeric',
                       month: 'long',
                       day: 'numeric',
-                    })}{' '}
+                    })}
                     :
                   </h3>
 
