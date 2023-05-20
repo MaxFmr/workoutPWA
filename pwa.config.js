@@ -4,7 +4,7 @@ module.exports = {
   start_url: '/',
   display: 'fullscreen',
   background_color: '#242424',
-  theme_color: '#000000',
+  theme_color: '#242424',
   lang: 'fr-FR',
   icons: [
     {
