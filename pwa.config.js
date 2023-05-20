@@ -2,9 +2,10 @@ module.exports = {
   name: 'Mon entrainement',
   short_name: 'Mon entrainement',
   start_url: '/',
-  display: 'standalone',
+  display: 'fullscreen',
   background_color: '#ffffff',
   theme_color: '#000000',
+  lang: 'fr-FR',
   icons: [
     {
       src: 'src/assets/workout.png',
