@@ -3,7 +3,7 @@ module.exports = {
   short_name: 'Mon entrainement',
   start_url: '/',
   display: 'fullscreen',
-  background_color: '#ffffff',
+  background_color: '#242424',
   theme_color: '#000000',
   lang: 'fr-FR',
   icons: [
