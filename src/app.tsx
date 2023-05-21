@@ -1,18 +1,22 @@
 import './app.css';
 import data from '../data.json';
 import { useState, useEffect } from 'preact/hooks';
-
-interface Workout {
-  date: string;
-  workout: string;
-}
+import Card from './components/card';
+import List from './components/list';
+import { Workout } from './types';
 
 export function App() {
   const [workoutPlaned, setWorkoutPlaned] = useState(false);
   const [workout, setWorkout] = useState<Workout>();
 
-  const today = new Date().toISOString().split('T')[0];
+  //date formatting for today
+  const today = new Date();
+  const year = today.getFullYear();
+  const month = String(today.getMonth() + 1).padStart(2, '0');
+  const day = String(today.getDate()).padStart(2, '0');
+  const formattedDate = year + '-' + month + '-' + day;
 
+  //date formatting for entire date
   const entireDate = new Date().toLocaleDateString('fr-FR', {
     weekday: 'long',
     year: 'numeric',
@@ -29,7 +33,9 @@ export function App() {
 
     //data setup
     data.map((item) => {
-      if (item.date === today) {
+      console.log(item.date, 'item.date');
+      console.log(today, 'today');
+      if (item.date === formattedDate) {
         setWorkoutPlaned(true);
         setWorkout(item);
       }
@@ -38,51 +44,12 @@ export function App() {
 
   return (
     <>
-      <div className='card'>
-        {workoutPlaned ? (
-          <div>
-            <h1>{entireDate}</h1>
-
-            <div>
-              <h2>Votre entrainement :</h2>
-            </div>
-            <div>
-              <p>{workout && workout.workout}</p>
-            </div>
-          </div>
-        ) : (
-          <div>
-            <h1>{entireDate}</h1>
-            <p>Pas d'entrainement planifié aujourd'hui.</p>
-          </div>
-        )}
-      </div>
-      <div className='liste'>
-        <h2>Entrainements à venir : </h2>
-        <ul>
-          {data.map((item) => {
-            const date = new Date(item.date);
-            const today = new Date();
-            return (
-              date > today && (
-                <li>
-                  <h3>
-                    {date.toLocaleDateString('fr-FR', {
-                      weekday: 'long',
-                      year: 'numeric',
-                      month: 'long',
-                      day: 'numeric',
-                    })}
-                    :
-                  </h3>
-
-                  <p>{item.workout}</p>
-                </li>
-              )
-            );
-          })}
-        </ul>
-      </div>
+      <Card
+        workoutPlaned={workoutPlaned}
+        entireDate={entireDate}
+        workout={workout}
+      />
+      <List data={data} formattedDate={formattedDate} />
     </>
   );
 }
