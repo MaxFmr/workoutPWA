@@ -24,7 +24,7 @@ export function App() {
     day: 'numeric',
   });
   useEffect(() => {
-    //cache delete
+    //cache delete to prevent old data
     caches.keys().then((cacheNames) => {
       cacheNames.forEach((cacheName) => {
         caches.delete(cacheName);
@@ -33,8 +33,6 @@ export function App() {
 
     //data setup
     data.map((item) => {
-      console.log(item.date, 'item.date');
-      console.log(today, 'today');
       if (item.date === formattedDate) {
         setWorkoutPlaned(true);
         setWorkout(item);
