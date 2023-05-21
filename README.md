@@ -29,15 +29,17 @@ cd workout-routine-pwa
 
 npm install
 
+4. Modify the data.json file with your own workout data, day by day, with date and workout content
+
 5. Start the development server:
 
 npm run dev
 
-2. Deploy the contents of the `build` directory to your preferred hosting provider or server.
+6. Deploy the app on netlify or you favorite hosting service.
 
-3. Ensure that the server supports HTTPS for service workers to function correctly. You can use a free SSL certificate from Let's Encrypt.
+7. Ensure that the server supports HTTPS for service workers to function correctly. You can use a free SSL certificate from Let's Encrypt.
 
-4. Access the deployed Workout Routine PWA from your smartphone's web browser. You will have the option to "Add to Home Screen" for an enhanced experience as a PWA.
+8. Access the deployed Workout Routine PWA from your smartphone's web browser. You will have the option to "Add to Home Screen" for an enhanced experience as a PWA.
 
 ## Technologies Used
 
