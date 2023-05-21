@@ -8,7 +8,7 @@ module.exports = {
   lang: 'fr-FR',
   icons: [
     {
-      src: 'src/assets/workout.png',
+      src: 'src/assets/workout.jpg',
       sizes: '192x192',
       type: 'image/png',
     },
