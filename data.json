@@ -1,226 +1,122 @@
 [
   {
-    "date": "2023-05-21",
+    "date": "2023-09-01",
     "workout": "Course à pied - 30 minutes à un rythme confortable"
   },
   {
-    "date": "2023-05-22",
-    "workout": "Repos"
-  },
-  {
-    "date": "2023-05-23",
-    "workout": "Fitness - Entraînement complet du corps (30 minutes de cardio, 30 minutes de musculation)"
-  },
-  {
-    "date": "2023-05-24",
-    "workout": "Course à pied - 30 minutes à un rythme confortable"
-  },
-  {
-    "date": "2023-05-25",
-    "workout": "Repos"
-  },
-  {
-    "date": "2023-05-26",
+    "date": "2023-09-03",
     "workout": "VTT - 1 heure à un rythme modéré"
   },
   {
-    "date": "2023-05-27",
-    "workout": "Repos"
-  },
-  {
-    "date": "2023-05-28",
-    "workout": "Course à pied - 30 minutes à un rythme confortable"
-  },
-  {
-    "date": "2023-05-29",
-    "workout": "Repos"
-  },
-  {
-    "date": "2023-05-30",
+    "date": "2023-09-05",
     "workout": "Fitness - Entraînement complet du corps (30 minutes de cardio, 30 minutes de musculation)"
   },
   {
-    "date": "2023-05-31",
-    "workout": "Course à pied - 30 minutes à un rythme confortable"
+    "date": "2023-09-10",
+    "workout": "Course à pied - 35 minutes à un rythme confortable"
   },
   {
-    "date": "2023-06-01",
-    "workout": "Repos"
-  },
-  {
-    "date": "2023-06-02",
+    "date": "2023-09-12",
     "workout": "VTT - 1 heure à un rythme modéré"
   },
   {
-    "date": "2023-06-03",
-    "workout": "Repos"
+    "date": "2023-09-14",
+    "workout": "Fitness - Entraînement complet du corps (30 minutes de cardio, 30 minutes de musculation)"
   },
   {
-    "date": "2023-06-04",
+    "date": "2023-09-17",
     "workout": "Course à pied - 40 minutes à un rythme confortable"
   },
   {
-    "date": "2023-06-05",
-    "workout": "Fitness - Entraînement complet du corps (30 minutes de cardio, 30 minutes de musculation)"
+    "date": "2023-09-19",
+    "workout": "VTT - 1 heure à un rythme soutenu"
   },
   {
-    "date": "2023-06-06",
-    "workout": "Repos"
+    "date": "2023-09-21",
+    "workout": "Fitness - Entraînement complet du corps (35 minutes de cardio, 30 minutes de musculation)"
   },
   {
-    "date": "2023-06-07",
-    "workout": "Course à pied - 40 minutes à un rythme confortable"
+    "date": "2023-09-24",
+    "workout": "Course à pied - Fractionné sur piste (8x200m, récupération de 1 minute)"
   },
   {
-    "date": "2023-06-08",
-    "workout": "VTT - 1 heure à un rythme modéré"
+    "date": "2023-09-26",
+    "workout": "VTT - 1 heure à un rythme soutenu"
   },
   {
-    "date": "2023-06-09",
-    "workout": "Repos"
+    "date": "2023-09-28",
+    "workout": "Fitness - Entraînement complet du corps (35 minutes de cardio, 35 minutes de musculation)"
   },
   {
-    "date": "2023-06-10",
-    "workout": "Fitness - Entraînement complet du corps (30 minutes de cardio, 30 minutes de musculation)"
+    "date": "2023-10-01",
+    "workout": "Course à pied - 45 minutes à un rythme confortable"
   },
   {
-    "date": "2023-06-11",
-    "workout": "Course à pied - 40 minutes à un rythme confortable"
+    "date": "2023-10-03",
+    "workout": "VTT - 1 heure à un rythme soutenu"
   },
   {
-    "date": "2023-06-12",
-    "workout": "Fitness - Entraînement complet du corps (30 minutes de cardio, 30 minutes de musculation)"
+    "date": "2023-10-05",
+    "workout": "Fitness - Entraînement complet du corps (40 minutes de cardio, 30 minutes de musculation)"
   },
   {
-    "date": "2023-06-13",
-    "workout": "Repos"
-  },
-  {
-    "date": "2023-06-14",
-    "workout": "Course à pied - 40 minutes à un rythme confortable"
-  },
-  {
-    "date": "2023-06-15",
-    "workout": "VTT - 1 heure à un rythme modéré"
-  },
-  {
-    "date": "2023-06-16",
-    "workout": "Repos"
-  },
-  {
-    "date": "2023-06-17",
-    "workout": "Fitness - Entraînement complet du corps (30 minutes de cardio, 30 minutes de musculation)"
-  },
-  {
-    "date": "2023-06-18",
+    "date": "2023-10-08",
     "workout": "Course à pied - 50 minutes à un rythme confortable"
   },
   {
-    "date": "2023-06-19",
-    "workout": "Fitness - Entraînement complet du corps (30 minutes de cardio, 30 minutes de musculation)"
+    "date": "2023-10-10",
+    "workout": "VTT - 1 heure à un rythme soutenu"
   },
   {
-    "date": "2023-06-20",
-    "workout": "Repos"
+    "date": "2023-10-12",
+    "workout": "Fitness - Entraînement complet du corps (40 minutes de cardio, 35 minutes de musculation)"
   },
   {
-    "date": "2023-06-21",
-    "workout": "Course à pied - 50 minutes à un rythme confortable"
+    "date": "2023-10-15",
+    "workout": "Course à pied - 55 minutes à un rythme confortable"
   },
   {
-    "date": "2023-06-22",
-    "workout": "VTT - 1 heure à un rythme modéré"
+    "date": "2023-10-17",
+    "workout": "VTT - 1 heure à un rythme soutenu"
   },
   {
-    "date": "2023-06-23",
-    "workout": "Repos"
+    "date": "2023-10-19",
+    "workout": "Fitness - Entraînement complet du corps (45 minutes de cardio, 30 minutes de musculation)"
   },
   {
-    "date": "2023-06-24",
-    "workout": "Fitness - Entraînement complet du corps (30 minutes de cardio, 30 minutes de musculation)"
-  },
-  {
-    "date": "2023-06-25",
-    "workout": "Course à pied - 50 minutes à un rythme confortable"
-  },
-  {
-    "date": "2023-06-26",
-    "workout": "Fitness - Entraînement complet du corps (30 minutes de cardio, 30 minutes de musculation)"
-  },
-  {
-    "date": "2023-06-27",
-    "workout": "Repos"
-  },
-  {
-    "date": "2023-06-28",
-    "workout": "Course à pied - 50 minutes à un rythme confortable"
-  },
-  {
-    "date": "2023-06-29",
-    "workout": "VTT - 1 heure à un rythme modéré"
-  },
-  {
-    "date": "2023-06-30",
-    "workout": "Repos"
-  },
-  {
-    "date": "2023-07-01",
-    "workout": "Fitness - Entraînement complet du corps (30 minutes de cardio, 30 minutes de musculation)"
-  },
-  {
-    "date": "2023-07-02",
+    "date": "2023-10-22",
     "workout": "Course à pied - 60 minutes à un rythme confortable"
   },
   {
-    "date": "2023-07-03",
-    "workout": "Fitness - Entraînement complet du corps (30 minutes de cardio, 30 minutes de musculation)"
+    "date": "2023-10-24",
+    "workout": "VTT - 1 heure 15 minutes à un rythme soutenu"
   },
   {
-    "date": "2023-07-04",
-    "workout": "Repos"
+    "date": "2023-10-26",
+    "workout": "Fitness - Entraînement complet du corps (45 minutes de cardio, 35 minutes de musculation)"
   },
   {
-    "date": "2023-07-05",
-    "workout": "Course à pied - 60 minutes à un rythme confortable"
+    "date": "2023-10-29",
+    "workout": "Course à pied - 65 minutes à un rythme confortable"
   },
   {
-    "date": "2023-07-06",
-    "workout": "VTT - 1 heure à un rythme modéré"
+    "date": "2023-10-31",
+    "workout": "VTT - 1 heure 15 minutes à un rythme soutenu"
   },
   {
-    "date": "2023-07-07",
-    "workout": "Repos"
+    "date": "2023-11-02",
+    "workout": "Fitness - Entraînement complet du corps (50 minutes de cardio, 30 minutes de musculation)"
   },
   {
-    "date": "2023-07-08",
-    "workout": "Fitness - Entraînement complet du corps (30 minutes de cardio, 30 minutes de musculation)"
+    "date": "2023-11-05",
+    "workout": "Course à pied - Test de 10 km (moins de 55 minutes)"
   },
   {
-    "date": "2023-07-09",
-    "workout": "Course à pied - 60 minutes à un rythme confortable"
+    "date": "2023-11-07",
+    "workout": "Piscine avec palmes - 30 minutes"
   },
   {
-    "date": "2023-07-10",
-    "workout": "Fitness - Entraînement complet du corps (30 minutes de cardio, 30 minutes de musculation)"
-  },
-  {
-    "date": "2023-07-11",
-    "workout": "Repos"
-  },
-  {
-    "date": "2023-07-12",
-    "workout": "Course à pied - 60 minutes à un rythme confortable"
-  },
-  {
-    "date": "2023-07-13",
-    "workout": "VTT - 1 heure à un rythme modéré"
-  },
-  {
-    "date": "2023-07-14",
-    "workout": "Repos"
-  },
-  {
-    "date": "2023-07-15",
-    "workout": "Fitness - Entraînement complet du corps (30 minutes de cardio, 30 minutes de musculation)"
+    "date": "2023-11-09",
+    "workout": "Fitness - Entraînement complet du corps (50 minutes de cardio, 35 minutes de musculation)"
   }
 ]
